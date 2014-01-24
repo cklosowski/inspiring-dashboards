@@ -7,6 +7,7 @@ Version: 1.0
 Author: Chris Klosowski
 Author URI: http://kungfugrep.com
 License: GPLv2
+GitHub Plugin URI: https://github.com/cklosowski/inspiring-dashboards
 */
 
 function ck_inspiring_dashboards_register() {
