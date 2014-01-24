@@ -39,7 +39,7 @@ function ck_inspiring_dashboards_callback() {
 			<?php printf( 
 					__( 'This widget was inspired by <a href="%s" target="_blank">Chris Lema\'s</a> post titled <a href="%s" target="_blank">The simple truth that will help you write blog posts faster"</a>.',
 						'ck_inspiring_dashboards' ),
-					'http://twitter.com/chrislema', 'http://chrislema.com/write-blog-posts-faster/' ); ?></small>
+					'http://twitter.com/chrislema', 'http://chrislema.com/write-blog-posts-faster/' ); ?> <?php _e( 'The 7 posts types listed were originally published by Chris Lema at the link above.', 'ck_inspiring_dashboards' ); ?></small>
 	</p>
 	<?php
 }
