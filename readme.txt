@@ -3,7 +3,7 @@ Contributors: cklosows
 Tags: inspiration, blogging, writing, writing prompts
 Requires at least: 3.0
 Tested up to: 3.8.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 Donate link: https://wp-push.com/donations/
 License: GPLv2 or later
 
@@ -24,3 +24,6 @@ In Chris Lema's blog post "The simple truth that will help you write blog posts 
 == Changelog ==
 = 1.0 =
 Initial Release
+
+== Screenshots ==
+1. View of the widget in the Dashboard.
