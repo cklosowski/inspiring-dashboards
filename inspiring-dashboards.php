@@ -3,7 +3,7 @@
 Plugin Name: Inspiring Dashboards
 Plugin URI: http://kungfugrep.com
 Description: Not sure what to write about for your next blog post? Maybe this Dashboard Widget can inspire you.
-Version: 1.0.1
+Version: 1.0.2
 Author: Chris Klosowski
 Author URI: http://kungfugrep.com
 License: GPLv2
